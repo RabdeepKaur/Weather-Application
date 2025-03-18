@@ -1,5 +1,6 @@
 # Weather Apllication
-This is a simple weather-displaying application, but the earth rotates based on scroll.
+This is a weather displaying application based on location provided .
+The main feature of the application is it's  3D and interactive frontend  which is made with Three.js and react.
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
